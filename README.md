@@ -4,8 +4,8 @@
   <a href="#pre-requisites">Pré-requisitos</a> •
   <a href="#how-to-use">Instalando o projeto</a> •
   <a href="#related">Frontend</a> •
-  <a href="#license">Licença</a>
-  <a href="#credits">Creditos</a>
+  <a href="#license">Licença</a> •
+  <a href="#acknowledgements">Acknowledgements</a>
 </p>
 
 Essa aplicação foi desenvolvido utilizando **Java Spring e Spring Boot** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, **Lombok** para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgress.
@@ -47,5 +47,6 @@ Linkedin: [Renan Pollo Benelli](https://www.linkedin.com/in/renan-pollo-benelli-
 Instagram: [@renan1pollo](https://www.instagram.com/renan1pollo/) &nbsp;&middot;&nbsp;
 
 
+<h2 id="acknowledgements"> </h2>
 ## Acknowledgements
 This project was inspired by the work of [Fernanda-Kipper](https://github.com/Fernanda-Kipper). Special thanks to her for providing the initial idea and inspiration. You can find her on GitHub [here](https://github.com/Fernanda-Kipper).
