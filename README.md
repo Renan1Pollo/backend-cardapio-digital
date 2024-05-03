@@ -12,7 +12,7 @@ Essa aplicação foi desenvolvido utilizando **Java Spring e Spring Boot** para 
 
 <h2 id="pre-requisites">💻 Requisitos</h2> 
 
-Para rodar esse projeto você precisa ter o Java instalado na sua máquina.
+Para rodar esse projeto você precisa ter o Java e o Postgres instalado na sua máquina.
 
 <h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
 
