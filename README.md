@@ -46,7 +46,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## 📱 Minhas Redes
 
-Linkedin: ([https://www.fernandakipper.com](https://www.linkedin.com/in/renan-pollo-benelli-03a64229b/)) &nbsp;&middot;&nbsp; 
+Linkedin: (https://www.linkedin.com/in/renan-pollo-benelli-03a64229b/)&nbsp;&middot;&nbsp; 
 
 Instagram: [@renan1pollo](https://www.instagram.com/renan1pollo/) &nbsp;&middot;&nbsp;
 
