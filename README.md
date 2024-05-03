@@ -47,6 +47,5 @@ Linkedin: [Renan Pollo Benelli](https://www.linkedin.com/in/renan-pollo-benelli-
 Instagram: [@renan1pollo](https://www.instagram.com/renan1pollo/) &nbsp;&middot;&nbsp;
 
 
-<h2 id="acknowledgements"> </h2>
-## Acknowledgements
+<h2 id="acknowledgements"> ## Acknowledgements </h2>
 This project was inspired by the work of [Fernanda-Kipper](https://github.com/Fernanda-Kipper). Special thanks to her for providing the initial idea and inspiration. You can find her on GitHub [here](https://github.com/Fernanda-Kipper).
