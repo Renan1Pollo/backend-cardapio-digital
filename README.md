@@ -28,11 +28,7 @@ $ cd cardapio-digital
 
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven
 
-<img width="300px" src="./.github/instalar-deps.png">
-
 E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
-
-<img width="300px" src="./.github/executar.png">
 
 <h2 id="related">🫂 Integração com Frontend</h2>
 
@@ -46,7 +42,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## 📱 Minhas Redes
 
-Linkedin: (https://www.linkedin.com/in/renan-pollo-benelli-03a64229b/)&nbsp;&middot;&nbsp; 
+Linkedin: [Renan Pollo Benelli](https://www.linkedin.com/in/renan-pollo-benelli-03a64229b/)&nbsp;&middot;&nbsp; 
 
 Instagram: [@renan1pollo](https://www.instagram.com/renan1pollo/) &nbsp;&middot;&nbsp;
 
